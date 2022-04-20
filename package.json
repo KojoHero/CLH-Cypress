@@ -1,0 +1,10 @@
+{
+    "name": "clh_cypress_test",
+    "description": " cypress test",
+    "devDependencies": {
+        "cypress": "^9.5.4"
+    },
+    "scripts": {
+        "cy:open": "cypress open"
+    }
+}

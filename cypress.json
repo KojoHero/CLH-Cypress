@@ -1,0 +1,4 @@
+{
+  "baseUrl": "https://nurse.clh-staging.com/login",
+  "retries": 2
+}
